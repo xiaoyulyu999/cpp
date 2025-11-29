@@ -33,5 +33,7 @@ void consumer() {
 
 
 int main () {
+    producer();
+    consumer();
     return 0;
 }
