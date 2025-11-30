@@ -1,7 +1,5 @@
 #include <iostream>
-#include <thread>
 #include <mutex>
-#include <string>
 #include <condition_variable>
 #include<queue>
 
